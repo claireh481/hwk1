@@ -1,1 +1,3 @@
-## Homework 1
+## ECON 470 Homework 1
+
+This is my repository for ECON 470 Homework 1.
